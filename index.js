@@ -2,7 +2,7 @@ import { Telegraf } from "telegraf";
 //import 'dotenv/config';
 const TOKEN = process.env.TOKEN  
 const DOMAIN_NAME = process.env.DOMAIN_NAME;
-const PORT = process.env.PORT || 5000
+const PORT = process.env.PORT || 3000
 var CHANNEL_URI = 'https://t.me/AutoAcceptor'
 const ADMIN_ID = 885488992
 
